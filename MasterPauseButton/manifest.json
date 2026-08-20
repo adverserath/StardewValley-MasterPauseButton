@@ -1,0 +1,9 @@
+﻿{
+  "Name": "Master Pause Button",
+  "Author": "adverserath",
+  "Version": "1.0.0",
+  "Description": "Assigns a button to toggle the host pause state in Stardew Valley.",
+  "UniqueID": "Adverserath.MasterPauseButton",
+  "EntryDll": "MasterPauseButton.dll",
+  "MinimumApiVersion": "4.0.8"
+}
