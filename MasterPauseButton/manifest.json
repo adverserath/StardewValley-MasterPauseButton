@@ -5,5 +5,7 @@
   "Description": "Assigns a button to toggle the host pause state in Stardew Valley.",
   "UniqueID": "Adverserath.MasterPauseButton",
   "EntryDll": "MasterPauseButton.dll",
-  "MinimumApiVersion": "4.0.8"
+  "MinimumApiVersion": "4.0.8",
+  "UpdateKeys": [ "Nexus:51031" ]
+
 }
